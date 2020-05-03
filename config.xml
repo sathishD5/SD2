@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.sathishD5.deadman"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Covid Kill</name>
+
+  <description>
+      Shooting type game to kill viruses
+  </description>
+
+  <author href="https://sathishd5.weebly.com" email="research.sathish@gmail.com">
+      SathishD
+  </author>
+  <icon src="icon.png" />
+</widget>
